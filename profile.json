@@ -8,12 +8,12 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/LeticiaCastilhoEmery/Publicando-Seu-Portfolio-Profissional-no-GitHub-Pages/refs/heads/main/HTML5_logo_and_wordmark.svg"
-      },
-      {
         "name": "CSS",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/LeticiaCastilhoEmery/Publicando-Seu-Portfolio-Profissional-no-GitHub-Pages/refs/heads/main/HTML5_logo_and_wordmark.svg"
       },
       {
         "name": "Javascript",
