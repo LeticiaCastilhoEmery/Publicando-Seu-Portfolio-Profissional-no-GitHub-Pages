@@ -1,0 +1,66 @@
+{
+  "name": "Letícia Castilho do Emery",
+  "photo": "blob:https://onedrive.live.com/aa0168e7-360b-4a56-8df4-e3e45316d1bf", 
+  "job": "Em busca de estágio",
+  "location": "Paulista - PE",
+  "phone": "(81) 99765-3403",
+  "email": "titacastilho@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
+      {
+        "name": "Figma",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade",
+      "Honestidade",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Avançado)"
+  ],
+  "portfolio": [
+    {
+      "name": "Construindo uma Pokédex com JavaScript",
+      "url": "https://github.com/LeticiaCastilhoEmery/Construindo-uma-Pokedex-com-JavaScript.git",
+      "github": true
+    },
+    {
+      "name": "Construindo um Layout Responsivo Para o Site do Discord Com CSS",
+      "url": "https://github.com/LeticiaCastilhoEmery/Construindo-um-Layout-Responsivo-Para-o-Site-do-Discord-Com-CSS.git",
+      "github": true
+    },
+    {
+      "name": "Clonando a Página do Youtube com CSS",
+      "url": "https://github.com/LeticiaCastilhoEmery/Clonando-a-P-gina-do-Youtube-com-CSS.git",
+      "github": true
+    },
+    {
+      "name": "Criando sua Primeira Landing Page com HTML e CSS",
+      "url": "https://github.com/LeticiaCastilhoEmery/Primeira-Landing-Page-com-HTML-e-CSS.git",
+      "github": true
+    },
+    {
+      "name": "Construindo seu Portfólio Front-end do Zero com HTML, CSS e JavaScript",
+      "url": "https://github.com/LeticiaCastilhoEmery/Construindo-seu-Portfolio-Front-end-do-Zero-com-HTML-CSS-e-JavaScript.git",
+      "github": true
+    }
+  ]
+}
