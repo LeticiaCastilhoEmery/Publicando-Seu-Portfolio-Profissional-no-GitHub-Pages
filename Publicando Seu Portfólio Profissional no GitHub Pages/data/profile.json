@@ -1,6 +1,6 @@
 {
   "name": "Letícia Castilho do Emery",
-  "photo": "blob:https://onedrive.live.com/aa0168e7-360b-4a56-8df4-e3e45316d1bf", 
+  "photo": "https://raw.githubusercontent.com/LeticiaCastilhoEmery/Publicando-Seu-Portfolio-Profissional-no-GitHub-Pages/refs/heads/main/Publicando%20Seu%20Portf%C3%B3lio%20Profissional%20no%20GitHub%20Pages/assets/img/20250316_172114.jpg", 
   "job": "Em busca de estágio",
   "location": "Paulista - PE",
   "phone": "(81) 99765-3403",
@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+        "logo": "https://raw.githubusercontent.com/LeticiaCastilhoEmery/Publicando-Seu-Portfolio-Profissional-no-GitHub-Pages/618fcb59f2490859c6404456d2259cbe95534c09/Publicando%20Seu%20Portf%C3%B3lio%20Profissional%20no%20GitHub%20Pages/assets/img/HTML5_logo_and_wordmark.svg"
       },
       {
         "name": "CSS",
